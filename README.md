@@ -11,8 +11,8 @@ We can make invoice payments in digitrace app using the ERC-20 token.
 We built it based on openzeppelin ERC20.sol. Deployed the contract in Kovan testnet and created liquidity pool in Uniswap for users to Swap Dragon token for Kovan-ETH
 
 ## Challenges we ran into
-Setting up liquidity pool
-Integrating invoice payments using Dragon into digitrace
+* Setting up liquidity pool
+* Integrating invoice payments using Dragon into digitrace
 
 ## Accomplishments that we're proud of
 Completion of token creation and E2E use case implementation of token in Dapp.
